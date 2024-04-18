@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://may.micro.blog/2024/04/18/about-applications-sideloading.html",
+				"title": "About applications sideloading",
+				"content_html": "<p>Apple has now added sideloading for people in Europe to comply with DMA, but in my opinion this brings more problems than benefits.</p>\n<p>One advantage I can think of is that you don&rsquo;t have to comply with the official App Store requirements for publishing your application. (e.g. in-app payment).</p>\n<p>But what about security? We have had sideloading on Android for a long time. And thanks to it, you can implement features in your applications that are not allowed in the Play Store. And many times there are applications that they imitate that are something else. These applications sometimes find their way to official stores, but less often.</p>\n<p>Another thing is the ability to install an application directly from a web page. If you do that, it&rsquo;s up to you to decide whether the site you&rsquo;re installing the application from is malicious or not. In the best case you have something that tells you that site is untrustworthy, in the worst case you install application about which only god (and programmer of that application) knows what will do on your phone. This decision will be difficult for tech-savvy users, not to mention the average user.</p>\n<p>It&rsquo;s something that makes our smartphones much less secure. I don&rsquo;t use app sideloading on my Android phone, and I probably won&rsquo;t on my iOS either.</p>\n",
+				"content_text": "Apple has now added sideloading for people in Europe to comply with DMA, but in my opinion this brings more problems than benefits.\r\n\r\nOne advantage I can think of is that you don't have to comply with the official App Store requirements for publishing your application. (e.g. in-app payment).\r\n\r\nBut what about security? We have had sideloading on Android for a long time. And thanks to it, you can implement features in your applications that are not allowed in the Play Store. And many times there are applications that they imitate that are something else. These applications sometimes find their way to official stores, but less often.\r\n\r\nAnother thing is the ability to install an application directly from a web page. If you do that, it's up to you to decide whether the site you're installing the application from is malicious or not. In the best case you have something that tells you that site is untrustworthy, in the worst case you install application about which only god (and programmer of that application) knows what will do on your phone. This decision will be difficult for tech-savvy users, not to mention the average user.\r\n\r\nIt's something that makes our smartphones much less secure. I don't use app sideloading on my Android phone, and I probably won't on my iOS either.\n",
+				"date_published": "2024-04-18T22:58:13+02:00",
+				"url": "https://micro.maymeow.com/2024/04/18/about-applications-sideloading.html"
+			},
+			{
+				"id": "http://may.micro.blog/2024/04/15/my-vertigo-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😨 My vertigo is back… I hate this…</p>\n",
+				"date_published": "2024-04-15T19:39:01+02:00",
+				"url": "https://micro.maymeow.com/2024/04/15/my-vertigo-is.html"
+			},
+			{
+				"id": "http://may.micro.blog/2024/04/14/what-would-you.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>⁉️ What would you do if your name is pretty unique and googling it let strangers find very close to your exact location or school where you studying or where you working?</p>\n",
+				"date_published": "2024-04-14T17:36:30+02:00",
+				"url": "https://micro.maymeow.com/2024/04/14/what-would-you.html"
+			},
+			{
 				"id": "http://may.micro.blog/2024/04/12/looking-for-blogging.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -122,7 +146,7 @@
 				"id": "http://may.micro.blog/2024/01/22/my-android-homescreen.html",
 				
 				"content_html": "<p>My android homescreen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My android homescreen.\n\n<img src=\"https://cdn.uploads.micro.blog/96654/2024/410a3ed37a.jpg\" width=\"279\" height=\"600\" alt=\"\">\n",
+				"content_text": "My android homescreen.\n\n<img src=\"uploads/2024/410a3ed37a.jpg\" width=\"279\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-01-22T13:07:20+02:00",
 				"url": "https://micro.maymeow.com/2024/01/22/my-android-homescreen.html"
 			},
@@ -322,7 +346,7 @@
 				"id": "http://may.micro.blog/2023/12/02/my-gaming-report.html",
 				
 				"content_html": "<p>My gaming report from November</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My gaming report from November \n\n<img src=\"https://cdn.uploads.micro.blog/96654/2023/8cf58f3d8c.jpg\" width=\"360\" height=\"600\" alt=\"\">\n",
+				"content_text": "My gaming report from November \n\n<img src=\"uploads/2023/8cf58f3d8c.jpg\" width=\"360\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-02T11:26:40+02:00",
 				"url": "https://micro.maymeow.com/2023/12/02/my-gaming-report.html"
 			},
@@ -466,7 +490,7 @@
 				"id": "http://may.micro.blog/2023/11/15/my-new-home.html",
 				
 				"content_html": "<p>My new home screen setup</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My new home screen setup \n\n<img src=\"https://cdn.uploads.micro.blog/96654/2023/78d6abe810.jpg\" width=\"279\" height=\"600\" alt=\"\">\n",
+				"content_text": "My new home screen setup \n\n<img src=\"uploads/2023/78d6abe810.jpg\" width=\"279\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-15T19:35:47+02:00",
 				"url": "https://micro.maymeow.com/2023/11/15/my-new-home.html"
 			},
@@ -1042,7 +1066,7 @@
 				"id": "http://may.micro.blog/2023/06/26/160336.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/96654/2023/image.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-06-26T16:03:36+02:00",
 				"url": "https://micro.maymeow.com/2023/06/26/160336.html"
 			},
@@ -1266,7 +1290,7 @@
 				"id": "http://may.micro.blog/2023/05/22/testing-mona-mastodon.html",
 				
 				"content_html": "<p>Testing Mona Mastodon app</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Testing Mona Mastodon app\n\n<img src=\"https://cdn.uploads.micro.blog/96654/2023/523a279fd9.jpg\" width=\"600\" height=\"389\" alt=\"\">\n",
+				"content_text": "Testing Mona Mastodon app\n\n<img src=\"uploads/2023/523a279fd9.jpg\" width=\"600\" height=\"389\" alt=\"\">\n",
 				"date_published": "2023-05-22T21:48:12+02:00",
 				"url": "https://micro.maymeow.com/2023/05/22/testing-mona-mastodon.html"
 			},
@@ -1522,7 +1546,7 @@
 				"id": "http://may.micro.blog/2023/04/23/spring.html",
 				
 				"content_html": "<p>🌻🌼🌷🪻⚘️ Spring</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🌻🌼🌷🪻⚘️ Spring\n\n<img src=\"https://cdn.uploads.micro.blog/96654/2023/9198241c43.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "🌻🌼🌷🪻⚘️ Spring\n\n<img src=\"uploads/2023/9198241c43.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-23T12:36:23+02:00",
 				"url": "https://micro.maymeow.com/2023/04/23/spring.html"
 			},
@@ -1538,7 +1562,7 @@
 				"id": "http://may.micro.blog/2023/04/18/just-wanted-to.html",
 				
 				"content_html": "<p>Just wanted to try posting a photo, anyway, I like this mouse you almost not hearing the button clicks&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just wanted to try posting a photo, anyway, I like this mouse you almost not hearing the button clicks...\n\n<img src=\"https://cdn.uploads.micro.blog/96654/2023/0d7ead6023.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Just wanted to try posting a photo, anyway, I like this mouse you almost not hearing the button clicks...\n\n<img src=\"uploads/2023/0d7ead6023.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-18T23:30:57+02:00",
 				"url": "https://micro.maymeow.com/2023/04/18/just-wanted-to.html"
 			},
