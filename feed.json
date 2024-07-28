@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://may.micro.blog/2024/07/28/currently-scrobble-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥳 Currently scrobble 1️⃣3️⃣0️⃣0️⃣0️⃣  on my Last.fm profile with song <a href=\"https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh?si=deyupbmXS36FinFtk4ufFA\">https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh?si=deyupbmXS36FinFtk4ufFA</a></p>\n",
+				"date_published": "2024-07-28T16:45:25+02:00",
+				"url": "https://micro.maymeow.com/2024/07/28/currently-scrobble-on.html"
+			},
+			{
+				"id": "http://may.micro.blog/2024/04/22/playing-with-scribbles.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>✏️ Playing with scribbles, One thing that I notice (or did not find until now) is missing Markdown support (⁉️)</p>\n",
+				"date_published": "2024-04-22T15:07:33+02:00",
+				"url": "https://micro.maymeow.com/2024/04/22/playing-with-scribbles.html"
+			},
+			{
+				"id": "http://may.micro.blog/2024/04/21/a-bit-windy.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🍃 A bit windy outside…</p>\n",
+				"date_published": "2024-04-21T14:51:28+02:00",
+				"url": "https://micro.maymeow.com/2024/04/21/a-bit-windy.html"
+			},
+			{
+				"id": "http://may.micro.blog/2024/04/20/k-steps-today.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>👟 10k steps today. (Based on my work this is 2 times more than my usual)</p>\n",
+				"date_published": "2024-04-20T21:08:31+02:00",
+				"url": "https://micro.maymeow.com/2024/04/20/k-steps-today.html"
+			},
+			{
 				"id": "http://may.micro.blog/2024/04/18/about-applications-sideloading.html",
 				"title": "About applications sideloading",
 				"content_html": "<p>Apple has now added sideloading for people in Europe to comply with DMA, but in my opinion this brings more problems than benefits.</p>\n<p>One advantage I can think of is that you don&rsquo;t have to comply with the official App Store requirements for publishing your application. (e.g. in-app payment).</p>\n<p>But what about security? We have had sideloading on Android for a long time. And thanks to it, you can implement features in your applications that are not allowed in the Play Store. And many times there are applications that they imitate that are something else. These applications sometimes find their way to official stores, but less often.</p>\n<p>Another thing is the ability to install an application directly from a web page. If you do that, it&rsquo;s up to you to decide whether the site you&rsquo;re installing the application from is malicious or not. In the best case you have something that tells you that site is untrustworthy, in the worst case you install application about which only god (and programmer of that application) knows what will do on your phone. This decision will be difficult for tech-savvy users, not to mention the average user.</p>\n<p>It&rsquo;s something that makes our smartphones much less secure. I don&rsquo;t use app sideloading on my Android phone, and I probably won&rsquo;t on my iOS either.</p>\n",
