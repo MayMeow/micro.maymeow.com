@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://may.micro.blog/2025/06/30/just-found-that-the-bunnynet.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🐰 Just found that the bunny.net finally added support for DNSSEC.</p>\n",
+				"date_published": "2025-06-30T14:39:20+01:00",
+				"url": "https://micro.maymeow.com/2025/06/30/just-found-that-the-bunnynet.html"
+			},
+			{
 				"id": "http://may.micro.blog/2025/06/21/back-in-i-used-to.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
